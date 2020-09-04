@@ -1,5 +1,3 @@
-#Forum PHP
-
 Forum written with own MVC model. 
 
 ## Forum has the following functionalities:

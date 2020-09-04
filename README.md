@@ -1,6 +1,8 @@
+# Forum PHP
+
 Forum written with own MVC model. 
 
-## Forum has the following functionalities:
+### Forum has the following functionalities:
 * registration, logging in,
 * writing posts,
 * showing who is logged now, and in 24 hours ago
